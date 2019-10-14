@@ -4,6 +4,8 @@ This is based on Traversy Media's [tutorial](https://www.youtube.com/watch?v=S8y
 
 Difference is how Spring, Transition and animated are imported due to current version of react-spring (version 8.0.27).
 
+Demo: [https://reguv760.github.io/react-spring-demo/](https://reguv760.github.io/react-spring-demo/)
+
 ## Available Scripts
 
 In the project directory, you can run:
