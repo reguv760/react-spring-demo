@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is based on Traversy Media's [tutorial](https://www.youtube.com/watch?v=S8yn3-WpVV8) on Youtube.
+
+Difference is how Spring, Transition and animated are imported due to current version of react-spring (version 8.0.27).
+
 ## Available Scripts
 
 In the project directory, you can run:
